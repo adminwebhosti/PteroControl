@@ -327,4 +327,4 @@ client.on('ready', async () => {
 	});
 });
 
-client.login(config.TOKEN);
+client.login(config.MTA0NDMyMzkwNDAzMTgyMTk0Nw.GU6jY_.3HWXonRCSAVq5vrRkV8StMy-5gXOmnPVnUsbQA);
