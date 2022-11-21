@@ -1,10 +1,10 @@
 {
   "Database": "",
-  "TOKEN": "",
+  "TOKEN": "MTA0NDMyMzkwNDAzMTgyMTk0Nw.GU6jY_.3HWXonRCSAVq5vrRkV8StMy-5gXOmnPVnUsbQA",
   "inviteSupport": "https://discord.gg/jU4fQvhDCz",
-  "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=939836646914920488&permissions=8&scope=bot%20applications.commands",
+  "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=1044323904031821947&permissions=8&scope=bot",
   "UseGlobal": "false",
-  "clientId": "",
+  "clientId": "1044323904031821947",
   "guildId": "",
   "logChannel": "",
   "commandLogs": "",
