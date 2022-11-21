@@ -1,5 +1,5 @@
 {
-  "name": "PteroControl modified by Lenzh",
+  "name": "Eaglecloud bot",
   "version": "v10.1",
   "scripts": {
     "start": "node index.js",
