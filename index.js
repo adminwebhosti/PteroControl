@@ -4,7 +4,7 @@ const {
 const config = require('./settings/config.json')
 
 const manager = new ShardingManager('./bot.js', {
-	token: config.TOKEN
+	token: config.MTA0NDMyMzkwNDAzMTgyMTk0Nw.GPMylI.mMJ7-eoM7wZOsllJyBgcORXTz0EZZecaZsR8HE
 });
 
 console.log(`
